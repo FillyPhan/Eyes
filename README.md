@@ -2,7 +2,7 @@
 This is a project I have been working on as an assignment for my MIT boot camp for JS
 
 # Description
-This program tracks the movement of your mouse with the eyes on screen. 
+This program tracks the movement of your mouse with the eyes on screen. It does not yet work on mobile.
 
 # Usage
 Currently made for desktop only. To use, just drag index.html file to your browser tab. Make sure all files are in the same folder.
